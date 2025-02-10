@@ -1,4 +1,4 @@
-# Actividad 2 contenedores
+# Estructura de datos II 202510 - Actividad 2 contenedores
 ## Instructivo para ejecución
 ```
 docker compose up --build
